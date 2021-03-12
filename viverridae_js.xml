@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <xhtml:head>
+	<xhtml:script  src="content/scripts/jQuery.js" type="text/javascript"/>
+	<xhtml:script  src="content/scripts/viverridae.js" type="text/javascript"/>
+  	<xhtml:style type="text/css">
+		@import url('content/style/viverridae_style.css');
+	</xhtml:style>
+  </xhtml:head>
+  <xhtml:body>
+	</xhtml:body>
+</xhtml:html>
